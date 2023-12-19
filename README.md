@@ -1,5 +1,5 @@
-Expo Music App
-Introduction
+# Expo Music App
+# Introduction
 Expo Music App is a dynamic mobile application built with React Native using the Expo framework. This app offers a seamless and interactive experience for music lovers, allowing users to explore, play, and enjoy a wide range of musical genres right from their mobile devices.
 
 Clone the Repository:
